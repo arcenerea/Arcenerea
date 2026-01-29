@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nerea!
 
 🌱 **Learning & Growing in IT**  
-I'm a **Systems Administrator & Junior DevOps** enthusiast, passionate about **Linux, networks, and automation**. I love creating **practical solutions with Bash & Python**, and exploring **CI/CD & DevOps pipelines**.  
+I'm a **Systems Administrator** enthusiast, passionate about **Linux, networks, and automation**. I love creating **practical solutions with Bash & Python**, and exploring **CI/CD & DevOps pipelines**.  
 
 ---
 

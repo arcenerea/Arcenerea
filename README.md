@@ -39,7 +39,4 @@ This is my space for **personal projects & experiments**, mostly **Linux & DevOp
 - Exploring **DevOps pipelines & CI/CD**  
 - Learning **advanced Linux & networking**  
 
----
 
-## 📈 GitHub Stats
-[![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=NereaArce&show_icons=true&theme=tokyonight)](https://github.com/NereaArce)

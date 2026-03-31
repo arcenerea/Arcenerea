@@ -25,7 +25,8 @@ This is my space for **personal projects & experiments**, mostly **Linux & DevOp
 - **user-manager-script** – Bash script for **user management in Linux systems**. 👤  
 - **practicas-sysadmin** – Collection of **system & server administration practices**. ⚙️  
 - **ci-cd-jenkins-demo** – Practical **DevOps pipeline demo** using Jenkins: CI/CD, containers & automation. 🚀  
-- **ci-cd-demo** – **CI/CD with GitHub Actions**: push to main triggers tests & automatic deployment to GitHub Pages. 📦  
+- **ci-cd-demo** – **CI/CD with GitHub Actions**: push to main triggers tests & automatic deployment to GitHub Pages. 📦
+- **azure-basics-lab** – **Basic Azure fundamentals project**: demonstrates cloud concepts, IaaS, PaaS, SaaS, networking basics, and security, with practicaln examples and bilingual documentation. ☁️  
 
 ---
 

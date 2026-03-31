@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Nerea 
 
-🌱 Profesional en TI con experiencia práctica en Administración de Sistemas y DevOps.
+🌱 Profesional en Administracion de sistemas informaticos y redes . 
 
 **Certificado en Microsoft Azure Fundamentals (AZ-900)**.
 
   
-🌱 IT professional with hands-on experience in Systems Administration and DevOps .
+🌱 IT Systems Administration and Networking Professional
 
 **Certified in Microsoft Azure Fundamentals (AZ-900)**.
 

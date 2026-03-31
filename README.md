@@ -1,8 +1,20 @@
-# 👋 Hi, I'm Nerea!
+# 👋 ¡Hola! Soy Nerea 
+🌱 Aprendizaje y crecimiento continuo en TI  
+Hello! I’m Nerea 👋  
+🌱 Learning and growing in IT
 
-🌱 **Learning & Growing in IT**  
-I'm a **Systems Administrator** enthusiast, passionate about **Linux, networks, and automation**. I love creating **practical solutions with Bash & Python**, and exploring **CI/CD & DevOps pipelines**.  
+Soy una entusiasta de la Administración de Sistemas, apasionada por Linux, redes y automatización.  
+I’m a Systems Administration enthusiast, passionate about Linux, networking, and automation.
 
+Me encanta crear soluciones prácticas con **Bash y Python**, así como explorar **pipelines de CI/CD y prácticas DevOps**.  
+I love creating practical solutions with **Bash and Python**, and exploring **CI/CD pipelines and DevOps practices**.
+
+💻 **Habilidades / Skills:**  
+Linux | Bash | Python | Networking | Automation | Git | DevOps
+
+🚀 **Objetivo / Goal:**  
+Mejorar mis habilidades en automatización y scripting, profundizar en DevOps y CI/CD, y aprender sobre cloud computing y administración de sistemas avanzados.  
+Improve my automation and scripting skills, deepen my knowledge in DevOps and CI/CD, and learn more about cloud computing and advanced system administration.
 ---
 
 ## 💻 Technologies & Skills

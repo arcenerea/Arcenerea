@@ -6,10 +6,6 @@ Hello! I’m Nerea 👋
 💻 **Habilidades / Skills:**  
 Linux | Bash | Python | Networking | Automation | Git | DevOps | Cloud Basics
 
-🚀 **Objetivo / Goal:**  
-Seguir desarrollando soluciones eficientes en TI y DevOps, aplicando experiencia práctica y aprendiendo nuevas tecnologías de cloud y administración de sistemas avanzados.  
-Continue developing efficient solutions in IT and DevOps, leveraging practical experience and learning new technologies in cloud computing and advanced system administration.
-
 ## 💻 Technologies & Skills
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,14 +31,16 @@ This is my space for **personal projects & experiments**, mostly **Linux & DevOp
 
 ---
 
-## 🎯 Learning & Goals
-![Python](https://img.shields.io/badge/Learning-Python-blueviolet?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Learning-Bash-4EAA25?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/Learning-DevOps-008080?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/Learning-CI/CD-FF4500?style=for-the-badge)
+🎯 Aprendizaje y Objetivos / Learning & Goals
 
-- Improving **automation & scripting skills**  
-- Exploring **DevOps pipelines & CI/CD**  
-- Learning **advanced Linux & networking**  
+💻 **Habilidades / Skills:**  
+Python | Bash | Linux  | Networking | DevOps | CI/CD | Automatización
 
+🚀 **Profesionalmente:**  
+- Aplicando scripting y automatización para optimizar procesos y sistemas reales.  
+- Diseñando y gestionando **pipelines de CI/CD** para integraciones y despliegues eficientes.  
+- Configurando y administrando entornos Linux avanzados y redes para entornos productivos.  
+- Explorando nuevas herramientas de **cloud computing y DevOps** para proyectos prácticos.
 
+🌱 **Objetivo / Goal:**  
+Seguir desarrollando soluciones avanzadas en TI y DevOps, combinando experiencia práctica con aprendizaje continuo de nuevas tecnologías.

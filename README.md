@@ -92,16 +92,6 @@ Network diagnostics toolkit: ping sweeps, DNS resolution, port scanning and conn
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com?user=arcenerea&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75)
-
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=185FA5,0F6E56&height=100&section=footer)

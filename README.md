@@ -1,52 +1,51 @@
-# 👋 ¡Hola! Soy Nerea 
+<div align="center">
 
-🌱 Profesional en Administracion de sistemas informaticos y redes . 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0F6E56,185FA5&height=200&section=header&text=Nerea%20Arce&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20·%20DevOps%20·%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=ffffffcc)
 
-**Certificado en Microsoft Azure Fundamentals (AZ-900)**.
+</div>
 
-  
-🌱 IT Systems Administration and Networking Professional
+<div align="center">
 
-**Certified in Microsoft Azure Fundamentals (AZ-900)**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/Email-arcenerea4@gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arcenerea4@gmail.com)
+[![AZ-900](https://img.shields.io/badge/Azure-AZ--900_Certified-185FA5?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-💻 **Habilidades / Skills:**  
-Linux | Bash | Python | Networking | Automation | Git | DevOps | Cloud Basics
-
-## 💻 Technologies & Skills
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Networking](https://img.shields.io/badge/Networking-00CED1?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-FF69B4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-8A2BE2?style=for-the-badge)
+</div>
 
 ---
 
-## 📌 My GitHub Projects
-This is my space for **personal projects & experiments**, mostly **Linux & DevOps automation scripts**. Everything is **well documented** to learn and share.  
+## About me
 
-### ⭐ Featured Repositories
-- **linux-sysadmin-project** – Mini projects in Linux system administration: scripts & basic configurations. 🐧  
-- **network-tools-basics** – Bash scripts for **network diagnostics** (ping, IP, DNS, ports). 🌐  
-- **user-manager-script** – Bash script for **user management in Linux systems**. 👤  
-- **practicas-sysadmin** – Collection of **system & server administration practices**. ⚙️  
-- **ci-cd-jenkins-demo** – Practical **DevOps pipeline demo** using Jenkins: CI/CD, containers & automation. 🚀  
-- **ci-cd-demo** – **CI/CD with GitHub Actions**: push to main triggers tests & automatic deployment to GitHub Pages. 📦
-- **azure-basics-lab** – **Basic Azure fundamentals project**: demonstrates cloud concepts, IaaS, PaaS, SaaS, networking basics, and security, with practicaln examples and bilingual documentation. ☁️  
+IT professional with hands-on experience in **systems administration**, **infrastructure automation** and **cloud platforms**. I build reliable, well-documented systems that reduce manual workload, minimise human error and keep services running.
+
+Comfortable working independently in Linux environments, scripting in Bash and Python, deploying infrastructure as code with Ansible and Terraform, and managing CI/CD pipelines end to end. I value clean documentation and proactive problem-solving.
 
 ---
 
-🎯 Aprendizaje y Objetivos / Learning & Goals
+## Tech stack
 
-💻 **Habilidades / Skills:**  
-Python | Bash | Linux  | Networking | DevOps | CI/CD | Automatización
+**Operating systems & scripting**
 
-🚀 **Profesionalmente:**  
-- Aplicando scripting y automatización para optimizar procesos y sistemas reales.  
-- Diseñando y gestionando **pipelines de CI/CD** para integraciones y despliegues eficientes.  
-- Configurando y administrando entornos Linux avanzados y redes para entornos productivos.  
-- Explorando nuevas herramientas de **cloud computing y DevOps** para proyectos prácticos.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🌱 **Objetivo / Goal:**  
-Seguir desarrollando soluciones avanzadas en TI y DevOps, combinando experiencia práctica con aprendizaje continuo de nuevas tecnologías.
+**Infrastructure as code & automation**
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Cloud & CI/CD**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Monitoring, ITSM & databases**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft

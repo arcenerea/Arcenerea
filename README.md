@@ -96,9 +96,7 @@ Network diagnostics toolkit: ping sweeps, DNS resolution, port scanning and conn
 
 <div align="center">
 
-![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcenerea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=185FA5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcenerea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75)
+![GitHub streak](https://streak-stats.demolab.com?user=arcenerea&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75)
 
 </div>
 

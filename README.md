@@ -56,29 +56,36 @@ Comfortable working independently in Linux and Windows environments, scripting i
 
 ## Featured projects
 
-### 🔧 [ansible-user-mgmt](https://github.com/arcenerea/user-manager-script)
-Automated Linux user lifecycle management: creation, permission assignment and sudoers configuration. Idempotent playbooks with full documentation. Reduces provisioning time and eliminates manual errors.
+### ⚙️ [ansible-playbooks](https://github.com/arcenerea/ansible-playbooks)
+Ansible playbooks for Linux systems automation: user management, package installation, service configuration and system hardening. Idempotent and fully documented.
 
 `Ansible` `Linux` `IaC` `Automation`
 
 ---
 
-### ☁️ [terraform-azure-lab](https://github.com/arcenerea/azure-basics-lab)
-Infrastructure as code on Azure: virtual machines, networking, resource groups and reusable variable modules. Bilingual documentation (EN/ES). Demonstrates cloud provisioning and IaaS concepts end to end.
+### ☁️ [terraform-azure-lab](https://github.com/arcenerea/terraform-azure-lab)
+Infrastructure as code on Azure: virtual machines, networking, resource groups, NSG and storage account. Deployed to Sweden Central region.
 
 `Terraform` `Azure` `IaC` `Cloud`
 
 ---
 
-### 🚀 [ci-cd-pipeline-demo](https://github.com/arcenerea/ci-cd-jenkins-demo)
-Full DevOps pipeline using Jenkins and GitHub Actions: test, build and deploy stages with artefact management and environment variable handling. Containerised with Docker.
+### 🚀 [ci-cd-pipeline-demo](https://github.com/arcenerea/ci-cd-pipeline-demo)
+Full DevOps pipeline using Jenkins and GitHub Actions: test, build and deploy stages with Docker containerisation and artefact management.
 
 `Jenkins` `GitHub Actions` `Docker` `CI/CD`
 
 ---
 
-### 🌐 [network-tools-bash](https://github.com/arcenerea/network-tools-basics)
-Network diagnostics toolkit: ping sweeps, DNS resolution, port scanning and connectivity checks. Generates structured logs and automated reports.
+### 🐧 [linux-sysadmin-toolkit](https://github.com/arcenerea/linux-sysadmin-project)
+Linux SysAdmin toolkit: backup automation with rotation, user management, system health monitoring, log cleanup and SSH hardening scripts.
+
+`Bash` `Linux` `Automation` `Security`
+
+---
+
+### 🌐 [network-tools-basics](https://github.com/arcenerea/network-tools-basics)
+Network diagnostics toolkit: ping sweeps, DNS resolution, port scanning and connectivity checks with structured logs.
 
 `Bash` `Networking` `Scripting` `Linux`
 

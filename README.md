@@ -82,19 +82,6 @@ mindset: "If it can be automated, it should be automated"
 | [🌐 network-tools-basics](https://github.com/arcenerea/network-tools-basics) | Network diagnostics: ping sweeps, DNS resolution, port scanning with structured logs. | `Bash` `Networking` |
 
 </div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcenerea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=0ea5e9&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcenerea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=ffffff)
-
-</div>
-
 ---
 
 ## 🌱 Currently

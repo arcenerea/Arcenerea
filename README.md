@@ -1,100 +1,61 @@
-<div align="center">
+# Hi, I'm Nerea 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:0ea5e9&height=200&section=header&text=Nerea%20Arce&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Platform%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descColor=ffffff" />
+IT professional with hands-on experience in systems administration, infrastructure automation and cloud platforms. I build reliable, well-documented systems that reduce manual workload, minimise human error and keep services running.
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerea-arce/)
-[![GitHub](https://img.shields.io/badge/GitHub-arcenerea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcenerea)
-[![Email](https://img.shields.io/badge/Email-arcenerea4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arcenerea4@gmail.com)
-
-</div>
+Comfortable working independently in Linux and Windows environments, scripting in Bash and Python, deploying infrastructure as code with Ansible and Terraform, and managing CI/CD pipelines end to end. I value clean documentation and proactive problem-solving.
 
 ---
 
-## 👩‍💻 About me
+## Tech stack
 
-```yaml
-name: Nerea Arce
-role: Platform Engineer | SysAdmin | DevOps
-location: Relocating to Luleå, Sweden 🇸🇪 — July 2026
-focus:
-  - Kubernetes & container orchestration
-  - Infrastructure as Code (Terraform + Ansible)
-  - CI/CD pipelines & automation
-  - Linux systems & cloud platforms
-learning:
-  - AWS cloud architecture
-  - Swedish language (A2 → B1) 🌍
-  - AI applied to business
-mindset: "If it can be automated, it should be automated"
-```
+**Operating systems & scripting**
+`Linux` `Windows` `Bash` `Python`
 
----
+**Infrastructure as code & automation**
+`Ansible` `Terraform` `IaC`
 
-## 🛠️ Tech stack
+**Containers & orchestration**
+`Kubernetes` `Docker` `Minikube`
 
-<div align="center">
+**Cloud & CI/CD**
+`Azure` `AWS` `GitHub Actions` `Jenkins`
 
-### ☸️ Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ⚙️ Infrastructure as Code & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🚀 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### ☁️ Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🐧 Systems & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Data & ITSM
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**Monitoring, ITSM & databases**
+`SQL` `Git` `ServiceNow` `ITIL`
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-<div align="center">
+☸️ [kubernetes-lab](https://github.com/arcenerea/kubernetes-lab)
+Local Kubernetes cluster with Minikube: app deployment, NodePort service exposure and live HTTP traffic served from inside the cluster.
+`Kubernetes` `Docker` `Minikube` `Linux`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [☸️ kubernetes-lab](https://github.com/arcenerea/kubernetes-lab) | Local K8s cluster with Minikube — Deployment, NodePort Service and live HTTP traffic | `Kubernetes` `Docker` `Minikube` |
-| [⚙️ ansible-playbooks](https://github.com/arcenerea/ansible-playbooks) | Linux automation: user management, service config and system hardening. Idempotent. | `Ansible` `Linux` `IaC` |
-| [☁️ terraform-azure-lab](https://github.com/arcenerea/terraform-azure-lab) | Full Azure environment from code: VMs, networking, NSG. Deployed to Sweden Central. | `Terraform` `Azure` `IaC` |
-| [🚀 ci-cd-pipeline-demo](https://github.com/arcenerea/ci-cd-pipeline-demo) | End-to-end pipeline: test, build and deploy stages with Docker and artefact management. | `Jenkins` `GitHub Actions` `Docker` |
-| [🐧 linux-sysadmin-toolkit](https://github.com/arcenerea/linux-sysadmin-project) | Bash scripts for backup automation, health monitoring and SSH hardening. | `Bash` `Linux` `Security` |
-| [🌐 network-tools-basics](https://github.com/arcenerea/network-tools-basics) | Network diagnostics: ping sweeps, DNS resolution, port scanning with structured logs. | `Bash` `Networking` |
+⚙️ [ansible-playbooks](https://github.com/arcenerea/ansible-playbooks)
+Ansible playbooks for Linux systems automation: user management, package installation, service configuration and system hardening. Idempotent and fully documented.
+`Ansible` `Linux` `IaC` `Automation`
 
-</div>
+☁️ [terraform-azure-lab](https://github.com/arcenerea/terraform-azure-lab)
+Infrastructure as code on Azure: virtual machines, networking, resource groups, NSG and storage account. Deployed to Sweden Central region.
+`Terraform` `Azure` `IaC` `Cloud`
 
+🚀 [ci-cd-pipeline-demo](https://github.com/arcenerea/ci-cd-pipeline-demo)
+Full DevOps pipeline using Jenkins and GitHub Actions: test, build and deploy stages with Docker containerisation and artefact management.
+`Jenkins` `GitHub Actions` `Docker` `CI/CD`
 
-## 🌱 Currently
+🐧 [linux-sysadmin-toolkit](https://github.com/arcenerea/linux-sysadmin-project)
+Linux SysAdmin toolkit: backup automation with rotation, user management, system health monitoring, log cleanup and SSH hardening scripts.
+`Bash` `Linux` `Automation` `Security`
 
-- ☸️ Building Kubernetes labs — deployments, services and cluster management
-- ☁️ Studying AWS — cloud architecture and services  
-- 📖 AI applied to business
-- 🌍 Swedish A2 — working towards B1 🇸🇪
+🌐 [network-tools-basics](https://github.com/arcenerea/network-tools-basics)
+Network diagnostics toolkit: ping sweeps, DNS resolution, port scanning and connectivity checks with structured logs.
+`Bash` `Networking` `Scripting` `Linux`
 
 ---
 
-<div align="center">
+## Currently
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:00c896&height=100&section=footer" />
-
-</div>
+* ☸️ Building Kubernetes labs — deployments, services and cluster management
+* ☁️ Studying AWS — cloud architecture and services
+* 📖 AI applied to business
+* 🌍 Swedish A2 — working towards B1

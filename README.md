@@ -8,15 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nerea_Arce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerea-arce/)
 [![Email](https://img.shields.io/badge/Gmail-arcenerea4-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arcenerea4@gmail.com)
-
-
-![Platform Engineer](https://img.shields.io/badge/📍_Relocating_to-Luleå_Sweden_🇸🇪-00c896?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-arcenerea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcenerea)
 
 </div>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Platform+Engineer+%7C+DevOps+%7C+SysAdmin;Kubernetes+%7C+Terraform+%7C+Ansible;Building+reliable+infrastructure+from+scratch" />
 
 ---
 
@@ -25,7 +19,6 @@
 ```yaml
 name: Nerea Arce
 role: Platform Engineer | SysAdmin | DevOps
-location: 📍 Relocating to Luleå, Sweden 🇸🇪 — July 2026
 focus:
   - ☸️  Kubernetes & container orchestration
   - ⚙️  Infrastructure as Code — Terraform + Ansible
@@ -36,7 +29,7 @@ learning:
   - 🌍  Swedish A2 → B1
   - 🤖  AI applied to business
 mindset: "If it can be automated, it should be automated"
-```
+` ` `
 
 ---
 
@@ -92,18 +85,6 @@ mindset: "If it can be automated, it should be automated"
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcenerea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=0ea5e9&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcenerea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=ffffff)
-
-</div>
-
----
-
 ## 🌱 Currently learning
 
 <div align="center">
@@ -118,8 +99,7 @@ mindset: "If it can be automated, it should be automated"
 
 <div align="center">
 
-### 💬 Let's connect!
-
 *Building reliable infrastructure, one commit at a time* 🚀
 
 </div>
+```

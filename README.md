@@ -11,7 +11,7 @@
 ```yaml
 name:     "Nerea Arce"
 role:     "Platform Engineer | SysAdmin | DevOps"
-location: "Sweden"  # relocation in progress 🇸🇪
+location: "Sweden 🇸🇪"
 
 focus:
   - ☸️  Kubernetes          # + container orchestration

@@ -1,0 +1,81 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg{fill:#0d1117}
+      .gl1{fill:#1c3553}
+      .gl2{fill:#0f2a1a}
+      .gl3{fill:#1e1030}
+      .gr{stroke:#161b22;stroke-width:1}
+      .co{font-family:monospace;font-size:10px;fill:#21262d}
+      .tt{font-family:monospace;font-size:12px;fill:#484f58;letter-spacing:1px}
+      .nm{font-family:monospace;font-size:40px;font-weight:700;fill:#e6edf3}
+      .nb{font-family:monospace;font-size:40px;font-weight:700;fill:#58a6ff}
+      .ro{font-family:monospace;font-size:13px;fill:#7d8590}
+      .qu{font-family:monospace;font-size:12px;fill:#3fb950}
+      .pb{fill:#161b22}
+      .pd{fill:none;stroke:#30363d;stroke-width:1}
+      .pt{font-family:monospace;font-size:11px}
+      .bl{fill:#58a6ff}
+      .gr2{fill:#3fb950}
+      .pu{fill:#bc8cff}
+      .or{fill:#ffa657}
+      .cu{fill:#58a6ff;animation:blink 1s step-end infinite}
+      @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+      .d1{animation:p 2s ease-in-out 0s infinite}
+      .d2{animation:p 2s ease-in-out .4s infinite}
+      .d3{animation:p 2s ease-in-out .8s infinite}
+      .d4{animation:p 2s ease-in-out 1.2s infinite}
+      .d5{animation:p 2s ease-in-out 1.6s infinite}
+      .d6{animation:p 2s ease-in-out 2s infinite}
+      .d7{animation:p 2s ease-in-out .2s infinite}
+      @keyframes p{0%,100%{opacity:1}50%{opacity:.2}}
+    </style>
+  </defs>
+  <rect width="860" height="200" rx="10" class="bg"/>
+  <ellipse cx="180" cy="60" rx="180" ry="90" class="gl1" opacity=".35"/>
+  <ellipse cx="720" cy="150" rx="160" ry="70" class="gl2" opacity=".35"/>
+  <ellipse cx="680" cy="30" rx="120" ry="50" class="gl3" opacity=".30"/>
+  <line x1="0" y1="50" x2="860" y2="50" class="gr"/>
+  <line x1="0" y1="100" x2="860" y2="100" class="gr"/>
+  <line x1="0" y1="150" x2="860" y2="150" class="gr"/>
+  <line x1="200" y1="0" x2="200" y2="200" class="gr"/>
+  <line x1="660" y1="0" x2="660" y2="200" class="gr"/>
+  <text x="14" y="20" class="co">arcenerea</text>
+  <text x="846" y="20" text-anchor="end" class="co">github.com</text>
+  <text x="14" y="192" class="co">v2.0</text>
+  <text x="846" y="192" text-anchor="end" class="co">2025</text>
+  <text x="430" y="38" text-anchor="middle" class="tt">// platform engineer · devops · cloud infrastructure</text>
+  <text x="286" y="90" text-anchor="end" class="nb">Nerea</text>
+  <text x="294" y="90" class="nm"> Arce</text>
+  <rect x="618" y="64" width="3" height="32" rx="1" class="cu"/>
+  <text x="430" y="114" text-anchor="middle" class="ro">SysAdmin · DevOps · Platform Engineer · Azure · AWS</text>
+  <text x="430" y="136" text-anchor="middle" class="qu">"If it can be automated, it should be automated."</text>
+  <rect x="76"  y="154" width="100" height="24" rx="12" class="pb"/>
+  <rect x="76"  y="154" width="100" height="24" rx="12" class="pd"/>
+  <circle cx="93"  cy="166" r="4" class="bl d1"/>
+  <text x="103" y="170" class="pt bl">Kubernetes</text>
+  <rect x="185" y="154" width="88"  height="24" rx="12" class="pb"/>
+  <rect x="185" y="154" width="88"  height="24" rx="12" class="pd"/>
+  <circle cx="202" cy="166" r="4" class="or d2"/>
+  <text x="212" y="170" class="pt or">Terraform</text>
+  <rect x="282" y="154" width="76"  height="24" rx="12" class="pb"/>
+  <rect x="282" y="154" width="76"  height="24" rx="12" class="pd"/>
+  <circle cx="299" cy="166" r="4" class="or d3"/>
+  <text x="309" y="170" class="pt or">Ansible</text>
+  <rect x="367" y="154" width="62"  height="24" rx="12" class="pb"/>
+  <rect x="367" y="154" width="62"  height="24" rx="12" class="pd"/>
+  <circle cx="384" cy="166" r="4" class="gr2 d4"/>
+  <text x="394" y="170" class="pt gr2">CI/CD</text>
+  <rect x="438" y="154" width="64"  height="24" rx="12" class="pb"/>
+  <rect x="438" y="154" width="64"  height="24" rx="12" class="pd"/>
+  <circle cx="455" cy="166" r="4" class="bl d5"/>
+  <text x="465" y="170" class="pt bl">Azure</text>
+  <rect x="511" y="154" width="62"  height="24" rx="12" class="pb"/>
+  <rect x="511" y="154" width="62"  height="24" rx="12" class="pd"/>
+  <circle cx="528" cy="166" r="4" class="gr2 d6"/>
+  <text x="538" y="170" class="pt gr2">Linux</text>
+  <rect x="582" y="154" width="108" height="24" rx="12" class="pb"/>
+  <rect x="582" y="154" width="108" height="24" rx="12" class="pd"/>
+  <circle cx="599" cy="166" r="4" class="pu d7"/>
+  <text x="609" y="170" class="pt pu">Sweden-bound</text>
+</svg>

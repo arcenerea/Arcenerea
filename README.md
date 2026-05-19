@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="header.svg" alt="Nerea Arce - Platform Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/arcenerea/arcenerea/main/header.svg" width="100%" alt="Nerea Arce — Platform Engineer"/>
 </div>
+
+<br/>
 
 ---
 
@@ -18,7 +20,7 @@ focus:
   - 🐧  Linux systems        # Azure · AWS
 
 currently_learning: ["AWS", "Swedish A2 → B1", "AI applied to business"]
-mindset: "automate everything, document everything"
+mindset:            "automate everything, document everything"
 ```
 
 ---
@@ -68,28 +70,8 @@ mindset: "automate everything, document everything"
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcenerea&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcenerea&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
-
----
-
 <div align="center">
 
 *Building reliable infrastructure, one commit at a time* 🚀
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/arcenerea)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TU@EMAIL.COM)
 
 </div>

@@ -49,7 +49,7 @@ mindset:            "automate everything, document everything"
 | ⚙️ | [**ansible-playbooks**](https://github.com/arcenerea/ansible-playbooks) | Linux automation: user management, hardening. Idempotent. | `Ansible` `Linux` |
 | ☁️ | [**terraform-azure-lab**](https://github.com/arcenerea/terraform-azure-lab) | Full Azure environment from code. Sweden Central. | `Terraform` `Azure` |
 | 🚀 | [**ci-cd-pipeline-demo**](https://github.com/arcenerea/ci-cd-pipeline-demo) | End-to-end pipeline: test, build, deploy with Docker | `Jenkins` `GitHub Actions` |
-| 🐧 | [**linux-sysadmin-toolkit**](https://github.com/arcenerea/linux-sysadmin-project) | Backup automation, health monitoring, SSH hardening | `Bash` `Linux` |
+| 🐧 | [**linux-sysadmin-project**](https://github.com/arcenerea/linux-sysadmin-project) | Backup automation, health monitoring, SSH hardening | `Bash` `Linux` |
 | 🌐 | [**network-tools-basics**](https://github.com/arcenerea/network-tools-basics) | Ping sweeps, DNS resolution, port scanning with logs | `Bash` `Networking` |
 
 </div>
